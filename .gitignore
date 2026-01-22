@@ -1,0 +1,7 @@
+*.pptx
+*.class
+.idea/
+*.iml
+out/
+target/
+.DS_Store
