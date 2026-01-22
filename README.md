@@ -72,5 +72,4 @@ java -jar minesweep.jar
 | **鼠标中键** | 随时返回主菜单 |
 | **笑脸图标** | 重置当前游戏 |
 
----
-*Created by LYK - 2026*
+
